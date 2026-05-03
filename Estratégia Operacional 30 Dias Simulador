@@ -1,0 +1,58 @@
+###ESTRATÉGIA OPERACIONAL 30 DIAS -SIMULADOR-####
+
+
+- Suportes e Resistências - Operar a qualquer hora:
+*Colocar ordem de compra nos suportes - verificar o volume se está favorável para compra. 
+*Colocar ordem de venda nas resistências - verificar o volume se está favorável para venda.
+*Para um suporte virar resistência tem que fechar duas barras acima da linha do suporte.
+*Para uma resistência virar suporte tem que fechar duas barras abaixo da linha da resistência.
+
+
+
+- 1 Minuto PONDERADA - Operar no máximo até 08:30, toca na barra mais rápido:
+*Gráfico de 1m.
+*GAP de poelo menos 200 pontos.
+*Se a primeira barra do dia abrir acima do fechamento do dia anterior, colocar uma ordem de compra quando a média tocar a barra.
+ - Obsercar o preço em azul claro para conferir a tendêcia de abertura da barra.
+*Se a primeira barra do dia abrir abaixo do fechamento do dia anterior, colocar uma ordem de venda quando a média tocar a barra.
+ - Obsercar o preço em azul claro para conferir a tendêcia de abertura da barra.
+
+
+
+
+- 1 Minuto EXPONENCIAL - - Operar no máximo até 08:30, demora mais para tocar na barra:
+*Gráfico de 1m.
+*GAP de poelo menos 200 pontos.
+*Se a primeira barra do dia abrir acima do fechamento do dia anterior, colocar uma ordem de compra quando a média tocar a barra.
+ - Obsercar o preço em azul claro para conferir a tendêcia de abertura da barra.
+*Se a primeira barra do dia abrir abaixo do fechamento do dia anterior, colocar uma ordem de venda quando a média tocar a barra.
+ - Obsercar o preço em azul claro para conferir a tendêcia de abertura da barra.
+
+
+
+
+- SPREAD - Operar na primeira barra do dia PETR4 10m às 09:00 da manhã:
+*As médias precisar estar alinhadas compra: 200,20,9,WAP
+*As médias precisar estar alinhadas venda: VWAP,9,20,200 
+*Se a primeira barra do dia fechar acima das médias com uma barra com fechamento próximo da máxima,
+  abre o gráfico de 5min de MINI ÍNDICE às 09:10 se a bara for verde coloca uma ordem de compra na
+  máxima da barra. VERDE X VERDE
+*Se a primeira barra do dia fechar abaixo das médias com uma barra com fechamento próximo da mínima,
+  abre o gráfico de 5min de MINI ÍNDICE às 09:10 se a barra for vermelha coloca uma ordem de compra 
+  na mínima da barra. VERMELHO X VERMELHO
+
+
+
+CHECKLIST:
+* Fazer análise discricionária
+ - Calendário Economico
+ - Índices Futuros
+ - Valor do Minério de Ferro
+ - Valor do Petróleo Brent
+ - Verificar EWZ
+ - Verificar DXY
+* Verificar se está no simulador
+* Confirmar a senha
+* Verificar se está no ativo certo
+* Verificar se está no tempo certo
+* Verificar quatidade de contratos
