@@ -1,14 +1,6 @@
 ###ESTRATÉGIA OPERACIONAL 30 DIAS -SIMULADOR-####
 
 
-- Suportes e Resistências - Operar a qualquer hora:
-*Colocar ordem de compra nos suportes - verificar o volume se está favorável para compra. 
-*Colocar ordem de venda nas resistências - verificar o volume se está favorável para venda.
-*Para um suporte virar resistência tem que fechar duas barras acima da linha do suporte.
-*Para uma resistência virar suporte tem que fechar duas barras abaixo da linha da resistência.
-
-
-
 - 1 Minuto PONDERADA - Operar no máximo até 08:30, toca na barra mais rápido:
 *Gráfico de 1m.
 *GAP de poelo menos 200 pontos.
@@ -27,6 +19,16 @@
  - Obsercar o preço em azul claro para conferir a tendêcia de abertura da barra.
 *Se a primeira barra do dia abrir abaixo do fechamento do dia anterior, colocar uma ordem de venda quando a média tocar a barra.
  - Obsercar o preço em azul claro para conferir a tendêcia de abertura da barra.
+ 
+ 
+
+
+- Suportes e Resistências - Operar a qualquer hora:
+*Colocar ordem de compra nos suportes - verificar o volume se está favorável para compra. 
+*Colocar ordem de venda nas resistências - verificar o volume se está favorável para venda.
+*Para um suporte virar resistência tem que fechar duas barras acima da linha do suporte.
+*Para uma resistência virar suporte tem que fechar duas barras abaixo da linha da resistência.
+
 
 
 
