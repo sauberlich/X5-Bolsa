@@ -14,11 +14,11 @@
 
 - 1 Minuto EXPONENCIAL - - Operar no máximo até 08:30, demora mais para tocar na barra:
 *Gráfico de 1m.
-*GAP de poelo menos 200 pontos.
+*GAP de pelo menos 200 pontos.
 *Se a primeira barra do dia abrir acima do fechamento do dia anterior, colocar uma ordem de compra quando a média tocar a barra.
- - Obsercar o preço em azul claro para conferir a tendêcia de abertura da barra.
+ - Observar o preço em azul claro para conferir a tendêcia de abertura da barra.
 *Se a primeira barra do dia abrir abaixo do fechamento do dia anterior, colocar uma ordem de venda quando a média tocar a barra.
- - Obsercar o preço em azul claro para conferir a tendêcia de abertura da barra.
+ - Observar o preço em azul claro para conferir a tendêcia de abertura da barra.
  
  
 
